@@ -1,0 +1,3 @@
+[submodule "stm32_registers"]
+	path = stm32_registers
+	url = https://github.com/JinShil/stm32_registers.git
